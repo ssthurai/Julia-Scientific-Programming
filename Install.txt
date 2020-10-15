@@ -8,17 +8,12 @@ sudo apt install julia
 
 
 
-How to run Julia?
+2. How to run Julia?
 
 julia <ProgramName>
+eg., julia helloWorld.jl
 
-Suppose, if you have helloWorld.jl, run as follow.
-
-julia helloWorld.jl
-
-
-
-Other Resources to learn Julia
+3. Other Resources to learn Julia
 https://docs.julialang.org/en/v1/manual/getting-started/ (Official site)
 https://www.coursera.org/learn/julia-programming/home/welcome
 
