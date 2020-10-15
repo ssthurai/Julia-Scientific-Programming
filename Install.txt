@@ -1,0 +1,24 @@
+How to install Julia.
+
+0. Checkout official site for detailed instructions.
+https://julialang.org/downloads/platform/
+
+1. To install in ubuntu, try following.
+sudo apt install julia
+
+
+
+How to run Julia?
+
+julia <ProgramName>
+
+Suppose, if you have helloWorld.jl, run as follow.
+
+julia helloWorld.jl
+
+
+
+Other Resources to learn Julia
+https://docs.julialang.org/en/v1/manual/getting-started/ (Official site)
+https://www.coursera.org/learn/julia-programming/home/welcome
+
